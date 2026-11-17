@@ -9,6 +9,13 @@ Clone o repositório
 git clone {link_do_repositorio}
 ```
 
+Entre na pasta
+
+```bash
+cd data_science_extreme_temperatures
+```
+
+
 Rode o *uv sync*
 
 ```bash
