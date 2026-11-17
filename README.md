@@ -23,3 +23,5 @@ uv sync
 ```
 Conecte o kernel do vscode ao env do UV, clicando no botão *select kernel* no canto superior direito
 
+Os notebooks já podem ser executados
+
