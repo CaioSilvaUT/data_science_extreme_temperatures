@@ -9,5 +9,10 @@ Clone o repositório
 git clone {link_do_repositorio}
 ```
 
+Rode o uv sync
 
+```bash
+uv sync
+```
+Conecte o kernel do vscode ao env do UV, clicando no botão *select kernel* no canto superior direito
 
