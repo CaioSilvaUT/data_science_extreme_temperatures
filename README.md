@@ -9,7 +9,7 @@ Clone o repositório
 git clone {link_do_repositorio}
 ```
 
-Rode o uv sync
+Rode o *uv sync*
 
 ```bash
 uv sync
